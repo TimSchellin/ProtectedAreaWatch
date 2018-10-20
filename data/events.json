@@ -1,0 +1,20 @@
+
+{
+
+"id": [ "EONET_4007" ],
+
+"title" :  "Wildfire - N of San Bernardino, California - United States",
+
+"description" : [ "..." ],
+
+"link" : [ "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_4007" ],
+
+"categories": {"id" : 8, "title" : "Wildfires"},
+
+"sources" : {"id" : "PDC", "url": "http://emops.pdc.org/emops/?hazard_id=86603"},
+
+"geometries" : {"data" : "2018-10-12T19:00:00Z", "type" : "Point"},
+
+"coordinates" : {"0" : -117.317161452, "1" : 34.18761849}
+
+}
