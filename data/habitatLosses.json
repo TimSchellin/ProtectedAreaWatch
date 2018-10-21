@@ -142,11 +142,51 @@
 },
 {
 
-"title" : " ",
+"title" : "Jaru Biological Reserve - Brazil",
 
-"description" : "Agriculture",
+"description" : "Deforestation",
 
 "categories": "manmade",
 
-"coordinates" : {"0" : 999, "1" : 999} 
+"coordinates" : {"0" : -61.959592, "1" : -10.044436} 
+},
+{
+
+"title" : "Jaru Biological Reserve - Brazil",
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : -61.771389, "1" : -10.652732}
+},
+{
+
+"title" : "Jaru Biological Reserve - Brazil",
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : -61.774297, "1" : -9.597064}
+},
+{
+
+"title" : "Bukit Tigapuluh National Park - Indonesia",
+
+"description" : "Mining",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 102.443576, "1" : -0.738460}
+},
+{
+
+"title" : "Sebangau National Park - Indonesia,
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 113.774818, "1" : -2.241286}
 },
