@@ -60,14 +60,23 @@
 
 "coordinates" : {"0" : 14.963945, "1" : 3.116259}
 }
-}
 {
 
-"title" : " ",
+"title" : "Ranomafana National Park - Madagascar",
 
-"description" : " ",
+"description" : "Deforestation",
 
 "categories": "manmade",
 
-"coordinates" : {"0" : long, "1" : lat} 
+"coordinates" : {"0" : 47.422184, "1" : -21.248718} 
+}
+{
+
+"title" : "Ranomafana National Park - Madagascar",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 47.415416, "1" : -21.405589}
 }
