@@ -8,7 +8,7 @@
 
 "coordinates" : {"0" : 29.555850, "1" : -0.152545}
 
-}
+},
 {
 
 "title" : " Jatuarana National Forest - Brazil",
@@ -18,7 +18,7 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : -59.858395, "1" : -7.518376}
-}
+},
 {
 
 "title" : "Virugna National Park - Congo",
@@ -29,7 +29,7 @@
 
 "coordinates" : {"0" : 29.328161, "1" : -0.252888}
 
-}
+},
 {
 
 "title" : "Okapi Wildlife Reserve - Congo",
@@ -39,7 +39,7 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : 27.003997, "1" : 1.654183}
-}
+},
 {
 
 "title" : "River Moshi Forestry Reserve - Nigeria",
@@ -49,7 +49,7 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : 4.345247, "1" : 9.108893}
-}
+},
 {
 
 "title" : "Boumba Bek National Park - Cameroon",
@@ -59,7 +59,7 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : 14.963945, "1" : 3.116259}
-}
+},
 {
 
 "title" : "Ranomafana National Park - Madagascar",
@@ -69,7 +69,7 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : 47.422184, "1" : -21.248718} 
-}
+},
 {
 
 "title" : "Ranomafana National Park - Madagascar",
@@ -79,4 +79,74 @@
 "categories": "manmade",
 
 "coordinates" : {"0" : 47.415416, "1" : -21.405589}
-}
+},
+{
+
+"title" : "Midongy Du Sud National Park - Madagascar",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 47.062667, "1" : -23.760247}
+},
+{
+
+"title" : "Marotandrano Reserve - Madagascar",
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 48.810113, "1" : -16.325091}
+},
+{
+
+"title" : "Marotandrano Reserve - Madagascar",
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 48.655447, "1" : -16.548164} 
+},
+{
+
+"title" : "Midongy Du Sud National Park - Madagascar",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 47.363255, "1" : -21.386811}
+},
+{
+
+"title" : "Southern National Park - South Sudan",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 28.223142, "1" : 7.080473}
+},
+{
+
+"title" : "Kon Chu Rang Nature Reserve - Vietnam",
+
+"description" : "Deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 108.558788, "1" : 14.447623}
+},
+{
+
+"title" : " ",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 999, "1" : 999} 
+},
