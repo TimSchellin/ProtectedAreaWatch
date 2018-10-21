@@ -1,0 +1,73 @@
+{
+
+"title" : "Virugna National Park - Congo",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 29.555850, "1" : -0.152545}
+
+}
+{
+
+"title" : " Jatuarana National Forest - Brazil",
+
+"description" : "deforestation",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : -59.858395, "1" : -7.518376}
+}
+{
+
+"title" : "Virugna National Park - Congo",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 29.328161, "1" : -0.252888}
+
+}
+{
+
+"title" : "Okapi Wildlife Reserve - Congo",
+
+"description" : "Urbanization",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 27.003997, "1" : 1.654183}
+}
+{
+
+"title" : "River Moshi Forestry Reserve - Nigeria",
+
+"description" : "Agriculture",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 4.345247, "1" : 9.108893}
+}
+{
+
+"title" : "Boumba Bek National Park - Cameroon",
+
+"description" : "Mining",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : 14.963945, "1" : 3.116259}
+}
+}
+{
+
+"title" : " ",
+
+"description" : " ",
+
+"categories": "manmade",
+
+"coordinates" : {"0" : long, "1" : lat} 
+}
